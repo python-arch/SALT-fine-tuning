@@ -48,5 +48,5 @@ By adjusting the rank of truncated SVD and the rank of the LoRA matrices, we can
 The total number of trainable parameters is determined by both the rank of SVD and LoRA, offering flexibility in model adaptation without excessive computational costs.
 
 ## More Details?
-Refer to this [SALT- In a more formal way](./path/to/your/file.extension)
+Refer to this [SALT- In a more formal way](SALT.pdf)
 
