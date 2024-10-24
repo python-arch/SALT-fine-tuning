@@ -1,0 +1,8 @@
+Experiment Results
+Seed: 42
+Initial training time: 65.90 seconds
+Fine-tuning time: 6.64 seconds
+Initial accuracy: 0.9810
+Final accuracy: 0.9805
+Worst digit initial accuracy: 0.9673
+Worst digit final accuracy: 0.9683
